@@ -1,0 +1,23 @@
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\bin\Debug\tugas8.exe.config
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\bin\Debug\tugas8.exe
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\bin\Debug\tugas8.pdb
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.csprojAssemblyReference.cache
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.frmProses.resources
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.frmHasil.resources
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.Properties.Resources.resources
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.csproj.GenerateResource.cache
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.exe
+D:\KULIAH\Semester 3\Pemrograman Lanjut\Tugas\Tugas 8\tugas8\tugas8\obj\Debug\tugas8.pdb
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\bin\Debug\tugas8.exe.config
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\bin\Debug\tugas8.exe
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\bin\Debug\tugas8.pdb
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.csproj.AssemblyReference.cache
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.frmProses.resources
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.frmHasil.resources
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.Properties.Resources.resources
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.csproj.GenerateResource.cache
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.exe
+D:\SEMESTER 3\MATERI\PEMROG\PERTEMUAN KE 8\Hasil praktikum\tugas8-main\tugas8-main\tugas8\obj\Debug\tugas8.pdb
